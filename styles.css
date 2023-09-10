@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+
+}
+
+ 
+body {
+  background-color: rgb(240 241 245);
+  background-image: linear-gradient(rgb(210 213 219) 1px, transparent 1px), linear-gradient(to right, rgb(210 213 219) 1px, rgb(240 241 245) 1px);
+  background-size: 20px 20px;
+  height: 100%;
+  margin: 0;
+  font-family: sans-serif;
+  place-items: center;
+  color: rgb(22 25 30);
+}
+
